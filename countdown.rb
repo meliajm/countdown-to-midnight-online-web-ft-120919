@@ -8,5 +8,5 @@ def countdown(starting_count)
     starting_count -= 1 
     binding.pry
   end
-  "HAPPY NEW YEAR!"
+  # "HAPPY NEW YEAR!"
 end
